@@ -1,0 +1,48 @@
+/* Base Application Styles */
+body {
+  color: #fff;
+  background: #222;
+}
+
+.index img {
+  margin: 40px auto;
+  border-radius: 4px;
+  background: #fff;
+  display: block;
+}
+
+.index .notice {
+  margin: 20px auto;
+  padding: 15px 0;
+  text-align: center;
+  border: 1px solid #000;
+  border-width: 1px 0;
+  background: #666;
+}
+
+/* personal CSS */
+ul{
+  list-style: none;
+}
+
+li{
+  text-decoration: none;
+  color: bisque;
+  margin: 0!important;
+  list-style: none;
+}
+
+.menu{
+  text-decoration: none;
+  color: bisque;
+}
+
+.col-md-3{
+  border: bisque solid 0.3px;
+  padding: 2em;
+  margin: 2em;
+}
+
+h3{
+  margin-bottom: 1em!important;
+}
