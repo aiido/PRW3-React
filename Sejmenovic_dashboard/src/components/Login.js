@@ -1,7 +1,7 @@
 import React from 'react';
 
 // component for the login
-// you can't use it for now
+// you can't use it for now it's not functionnal
 export default class Login extends React.Component {
     render() {
         return (

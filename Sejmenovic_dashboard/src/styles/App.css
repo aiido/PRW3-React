@@ -37,12 +37,31 @@ li{
   color: bisque;
 }
 
-.col-md-3{
+.col-md-2{
   border: bisque solid 0.3px;
-  padding: 2em;
-  margin: 2em;
+  padding: 1.5em;
+  margin: 1em;
 }
 
 h3{
+  color: bisque;
   margin-bottom: 1em!important;
+}
+
+h4{
+  color: bisque!important;
+  margin-bottom: 1em!important;
+}
+
+.div-manager{
+  margin-top: 3em;
+  margin-bottom: 3em;
+  padding: 1em 0 1em 0;
+  border-top: #666666 solid 0.1px;
+  border-bottom: #666666 solid 0.1px;
+}
+
+.div-tags{
+  margin: 0.5em 0.5em 0.5em;
+  display: inline-block!important;
 }

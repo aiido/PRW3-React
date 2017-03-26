@@ -2,12 +2,15 @@ import React from 'react';
 
 // component for the homepage
 export default class Home extends React.Component {
+
+    /*
+     ----------------
+     Homepage
+     ----------------
+     Returns just a simple content with explication of the project
+     */
     render() {
         return (
-            /*
-            Page : Homepage
-            Returns just a simple content with explication of the project
-            */
             <div className="container-fluid">
                 <h1>React - Dashboard</h1>
                 <p>Welcome on the application Dashboard made with React.js.
